@@ -2,7 +2,6 @@
 '''A toolset designed for Pascal's triangle manipulation.
 '''
 
-
 def pascal_triangle(n):
     '''Generates a nested list of integers that represents 
     Pascal's triangle for a specified integer.
